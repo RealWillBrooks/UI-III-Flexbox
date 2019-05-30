@@ -302,3 +302,7 @@ footer {
   text-align: center;
 }
 
+hr{
+  margin-top: 300px;
+  margin-bottom: -100px;
+}
